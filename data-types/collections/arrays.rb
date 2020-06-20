@@ -170,7 +170,6 @@ class ArraysTest < Minitest::Test
     # Call a method on the children variable to combine them into
     # one string like this: "Sarah, Owen, Peter"
     one_string = children.join(", ")
-    binding.binding.pry
     assert_equal "Sarah, Owen, Peter", one_string
   end
 
