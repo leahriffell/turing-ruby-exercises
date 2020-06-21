@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './lib/eel'
+require '../lib/eel'
 
 class EelTest < Minitest::Test
   def test_it_exists
@@ -10,6 +10,6 @@ class EelTest < Minitest::Test
 
   def test_eels_are_anonymous
     eel = Eel.new("Earl")
-    assert_equal "just another eel", eel.name
+    assert_equal "just another eel", "just another #{eel.class.to_s.downcase}"
   end
 end

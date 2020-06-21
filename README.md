@@ -116,14 +116,14 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
     [x] collections/arrays [video walk-through](https://youtu.be/RUnd1Uu0AyE)
 
   * initialize
-    * aardvark
-    * beaver
-    * cat
-    * dog
-    * eel
-    * ferret
-    * groundhog
-    * horse
+    [x] aardvark
+    [x] beaver
+    [x] cat
+    [x] dog
+    [x] eel
+    [x] ferret
+    [x] groundhog
+    [x] horse
   * mythical-creatures
     * Unicorn [video walk-through](https://youtu.be/mocwGsu41yw)
     * Vampire

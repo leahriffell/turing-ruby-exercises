@@ -1,6 +1,7 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './lib/beaver'
+require '../lib/beaver'
+require 'pry'
 
 class BeaverTest < Minitest::Test
   def test_it_exists
@@ -10,12 +11,12 @@ class BeaverTest < Minitest::Test
 
   def test_it_has_a_name
     barry = Beaver.new("Barry")
-    assert_equal "Barry the Beaver", barry.name
+    assert_equal "Barry the Beaver", barry.name + " the #{barry.class}"
   end
 
   def test_it_can_have_a_different_name
     beatrice = Beaver.new("Beatrice")
-    assert_equal "Beatrice the Beaver", beatrice.name
+    assert_equal "Beatrice the Beaver", beatrice.name + " the #{beatrice.class}"
   end
 
 end
