@@ -109,7 +109,7 @@ Otherwise, please work through [this video guide](https://youtu.be/aeAkLxr5diE) 
 
 This repository of exercises is one of the best tools you've got to learn Ruby. Every minute spent here is time _very_ well spent.
 
-* [ ] Week 1
+* [x] Week 1
   * [x] data-types
   *  [x] strings (start here!!!) [video walk-through](https://youtu.be/aeAkLxr5diE)
   *  [x] ints_and_floats
@@ -135,8 +135,8 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
     * [x] select_pattern_test
     * [x] select_test
 
-* [ ] Week 2
-  * [ ] data-types/collections/hashes.rb
+* [x] Week 2
+  * [x] data-types/collections/hashes.rb
   * [ ] objects-and-methods/exercise-1
   * [ ] mythical-creatures
     * [ ] Hobbit [video walk-through](https://youtu.be/uYGS-DCNR-0)
