@@ -124,16 +124,16 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
     * [x] ferret
     * [x] groundhog
     * [x] horse
-  * [ ] mythical-creatures
+  * [x] mythical-creatures
     * [x] Unicorn [video walk-through](https://youtu.be/mocwGsu41yw)
-    * [ ] Dragon [video walk-through](https://youtu.be/NIPerY-xuCk)
-  * [ ] enumerables/exercises
-    * [ ] find_pattern_test
-    * [ ] find_test
-    * [ ] map_pattern_test
-    * [ ] map_test
-    * [ ] select_pattern_test
-    * [ ] select_test
+    * [x] Dragon [video walk-through](https://youtu.be/NIPerY-xuCk)
+  * [x] enumerables/exercises
+    * [x] find_pattern_test
+    * [x] find_test
+    * [x] map_pattern_test
+    * [x] map_test
+    * [x] select_pattern_test
+    * [x] select_test
 
 * [ ] Week 2
   * [ ] data-types/collections/hashes.rb
