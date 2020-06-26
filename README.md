@@ -137,11 +137,11 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
 
 * [x] Week 2
   * [x] data-types/collections/hashes.rb
-  * [ ] objects-and-methods/exercise-1
+  * [x] objects-and-methods/exercise-1
   * [ ] mythical-creatures
-    * [ ] Hobbit [video walk-through](https://youtu.be/uYGS-DCNR-0)
-    * [ ] Pirate
-    * [ ] Wizard
+    * [x] Hobbit [video walk-through](https://youtu.be/uYGS-DCNR-0)
+    * [x] Pirate
+    * [x] Wizard
   * [ ] command-query
     * [ ] leather_chair_test.rb
     * [ ] baby_test.rb

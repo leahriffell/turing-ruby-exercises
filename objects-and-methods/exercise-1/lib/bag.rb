@@ -13,4 +13,6 @@ class Bag
   def count
     @candies.length
   end
+
+  
 end
