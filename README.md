@@ -142,10 +142,10 @@ This repository of exercises is one of the best tools you've got to learn Ruby. 
     * [x] Hobbit [video walk-through](https://youtu.be/uYGS-DCNR-0)
     * [x] Pirate
     * [x] Wizard
-  * [ ] command-query
-    * [ ] leather_chair_test.rb
-    * [ ] baby_test.rb
-    * [ ] beers_test.rb
+  * [x] command-query
+    * [x] leather_chair_test.rb
+    * [x] baby_test.rb
+    * [x] beers_test.rb
 
 * [ ] Week 3
   * [ ] datatypes/collections/nested_collections.rb
